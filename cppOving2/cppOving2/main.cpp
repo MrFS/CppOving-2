@@ -2,7 +2,6 @@
 //å = †
 //æ = ‘
 
-
 #include <iostream>
 
 using namespace std;
